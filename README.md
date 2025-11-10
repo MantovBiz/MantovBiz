@@ -19,7 +19,7 @@
 
 | Category | Tools |
 |-----------|-------|
-| **Data Analysis** | SQL, R, RStudio, Power BI, Excel, SPSS Modeler |
+| **Data Analysis** | SQL, Python, R, RStudio, Power BI, Excel, SPSS Modeler |
 | **Programming / Web Dev** | HTML, CSS, JavaScript, Visual Studio Code |
 | **Visualization & Presentation** | Power BI, Excel Charts, PowerPoint |
 | **Business Tools** | Microsoft Word, Visio |
