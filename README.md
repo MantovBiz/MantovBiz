@@ -21,7 +21,7 @@
 |-----------|-------|
 | **Data Analysis** | SQL, Python, R, RStudio, Power BI, Excel, SPSS Modeler |
 | **Programming / Web Dev** | HTML, CSS, JavaScript, Visual Studio Code |
-| **Visualization & Presentation** | Power BI, Excel Charts, PowerPoint |
+| **Visualization & Presentation** | Power BI, Tableau, Excel Charts, PowerPoint |
 | **Business Tools** | Microsoft Word, Visio |
 
 ---
