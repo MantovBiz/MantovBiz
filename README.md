@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Manuel Tovar  
 
 🎓 **DePaul University Student** studying **Management Information Systems (MIS)** and **Business Analytics**.  
-📊 Passionate about **analyzing sports data**, **storytelling with numbers**, and uncovering insights that help explain what’s happening — and what could happen next.  
+📊 Passionate about **analyzing sports data**, **storytelling with numbers**, and uncovering insights that help explain what’s happening and what could happen next.  
 
 ---
 
